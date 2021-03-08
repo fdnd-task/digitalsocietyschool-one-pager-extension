@@ -1,18 +1,19 @@
-# {Naam}
+# Digital Society School huisstijl living styleguide
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht Digital-Society-School-huisstijl-living-styleguide ga je van de huisstijl van Digital Society School een living styleguide maken.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Maak een one-page actie site op basis van een bestaande huisstijl.
+Deze leertaak hoort bij sprint 4 "The Campaign".
+Dit is een uitbreidingstaak die je individueel uitvoert voor FDND.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Living styleguide maken met atomic design componenten.
+Maak componenten in HTML, CSS en (beetje) JS maken op basis van de Digital Society School huisstijl. Zoals artikelen, een responsive menu, ordered en un-ordered lijst items. Formulier elementen met states animaties. 
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
